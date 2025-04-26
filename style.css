@@ -80,7 +80,8 @@ body{
 
 .card .front-view span{
     color: #6563ff;
-    font-size: 40px;
+    font-size: 40px;\
+    transition: transform 0.25s linear;
 }
 
 .card .back-view{
